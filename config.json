@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorcender",
+        "uuid": 17718507,
+        "checksum": "1dunyo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
